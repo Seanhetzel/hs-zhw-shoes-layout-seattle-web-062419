@@ -28,3 +28,13 @@
   float: left;
   width: 32%;
 }
+
+.col_2 {
+  float: left;
+  width: 62%;
+}
+
+.col_3 {
+  float: left;
+  width: 98%;
+}

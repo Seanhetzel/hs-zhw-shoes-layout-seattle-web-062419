@@ -38,3 +38,7 @@
   float: left;
   width: 33%;
 }
+
+.first {
+  margin-left: 0;
+}
